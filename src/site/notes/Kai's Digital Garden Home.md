@@ -5,3 +5,5 @@
 Home Page
 
 This is my first line.
+
+[[What is going on\|What is going on]]
